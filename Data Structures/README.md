@@ -1,1 +1,1 @@
-Java 8 New Fetures
+Java 8 New Features
